@@ -7,9 +7,9 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>This is Tamagosenbe_'s portfolio</h1>
-    <p>Welcome to my page!</p>
+    <SEO title="たまごせんべいのポートフォリオ" />
+    <h1>たまごせんべいのポートフォリオへようこそ</h1>
+    <p>まだ書ける程の実績がない（かなしい）</p>
     <p>!!!.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
