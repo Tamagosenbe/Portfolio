@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{p5nM:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Wbzz"),c=n("Bl7J"),u=n("vrFN");t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(u.a,{title:"Page two"}),l.a.createElement("h1",null,"わっふー"),l.a.createElement("p",null,"2020-04-22:開設"),l.a.createElement(r.Link,{to:"/"},"もどる"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-d15e53feb2fe0a25557f.js.map
