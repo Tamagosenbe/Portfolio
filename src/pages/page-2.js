@@ -7,10 +7,29 @@ import SEO from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <h1>
+      日記的な
+    </h1>
+    <div style={{ color: `purple`, fontSize: `32px` }}>わっふぅっ!</div>
+    <p>・</p>
+
+    
+    <div style={{ color: `black`, fontSize: `22px` }}>☆2020-04-22</div>
+
+    <p>　ポートフォリオ開設・公開</p>
+    <p>　ついったーボタン実装、背景色設定</p>
+    <p>　文字色の変更ができなくてキレる</p>
+    <p>　あとは、ツイートの展開もできるようにしたいなあなど</p>
+    <p>　…てかポートフォリオってなんだっけ、少なくともこんなの書くものじゃあないよなあ</p>
+    
+  
+
+
+    
+   
+    <Link to="/">もどる</Link>
   </Layout>
 )
+
 
 export default SecondPage
