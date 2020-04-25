@@ -34,7 +34,7 @@ const IndexPage = () => (
     
     <Link to="/page-2/">何か</Link>
     <p>　</p><p>　</p><p>　</p>
-
+    
     
 
 
