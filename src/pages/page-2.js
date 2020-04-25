@@ -10,7 +10,7 @@ const SecondPage = () => (
     <h1>
       日記的な
     </h1>
-    <div style={{ color: `purple`, fontSize: `32px` }}>わっふぅっ!</div>
+    <div style={{ color: `pink`, fontSize: `32px` }}>わっふぅっ!</div>
     <p>・</p>
 
     
@@ -22,6 +22,10 @@ const SecondPage = () => (
     <p>　あとは、ツイートの展開もできるようにしたいなあなど</p>
     <p>　…てかポートフォリオってなんだっけ、少なくともこんなの書くものじゃあないよなあ</p>
     
+    <p>　</p>
+
+    <div style={{ color: `black`, fontSize: `22px` }}>☆2020-04-24</div>
+    <p>　ツイートの展開ができるようになった</p>
   
 
 
