@@ -16,16 +16,16 @@ const IndexPage = () => (
     <p>まだポートフォリオに書ける程の実績がない（かなしい）</p>
     <p>絵を描いたり映像作ったりUnityを触ったりしています</p>
     
-    <a href="https://twitter.com/Tamagosenbe_"> <img src={require('../images/twitter_bird.png')} style={{width: `300px`}} alt="ツイッター"/></a>
-
-    <p>　</p>
-    <a href="https://github.com/Tamagosenbe"> <img src={require('../images/GitCat.png')} style={{width: `200px`}} alt="github"/></a>
+    <a href="https://twitter.com/Tamagosenbe_"> <img src={require('../images/twitter_bird2.png')} style={{width: `300px`}} alt="ツイッター"/></a>
+   <p></p>
+   <a href="https://github.com/Tamagosenbe"> <img src={require('../images/GitCat.png')} style={{width: `200px`}} alt="github"/></a>
     
     <p>　</p>
-    <div style={{ color: `black`, fontSize: `32px` }}>こんな感じでゲーム作ったりしてます。</div>
+    <div style={{ color: `black`, fontSize: `32px` }}>ゲーム作ったりしてます。</div>
+    <p>　　</p>
+    <p>こんな<a href="https://unityroom.com/games/tamagosenbei-hataraitaramake">シューティングゲーム</a>とか。</p>
     
-    
-    
+    <div style={{ color: `black`, fontSize: `22px` }}> プレイしてみるとこんなかんじです。</div>
     <Tweet tweetId="1242852168660480001"/>
     <p>ちなみにこのゲームは<a href="https://twitter.com/Vane11ope">ヴァネロピさん</a>という一流ツイッタラーをモデルにしてます♪(๑ᴖ◡ᴖ๑)♪</p>
     <div style={{ color: `black`, fontSize: `12px` }}>なんでも、トマトとしいたけが苦手だそう。美味しいのにね。</div>
