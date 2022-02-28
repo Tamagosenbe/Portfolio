@@ -27,8 +27,9 @@ const SecondPage = () => (
     <div style={{ color: `black`, fontSize: `22px` }}>☆2020-04-24</div>
     <p>　ツイートの展開ができるようになった</p>
   
-
-
+    <div style={{ color: `black`, fontSize: `22px` }}>☆2022-02-28</div>
+    <p>　久々の更新。Twitterはアカウント消しているからそのうちトップページのツイッター紐づけをなんとかしたい。</p>
+    
     
    
     <Link to="/">もどる</Link>
